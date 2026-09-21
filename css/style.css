@@ -1,0 +1,9 @@
+.header-right img {
+    width: 2em;
+    height: auto;
+}
+
+header a {
+    text-decoration: none;
+    color: gray;
+}
